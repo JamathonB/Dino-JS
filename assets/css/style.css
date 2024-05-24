@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../images/PixelMountains.jpg);
+    background-position: center;
+}
+
+img {
+    background: none;
+    position: relative;
+    transition: left 20s ease; /* Smooth transition over 0.3 seconds */
+}
