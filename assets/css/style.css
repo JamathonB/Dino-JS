@@ -9,5 +9,5 @@
 img {
     background: none;
     position: relative;
-    transition: left 20s ease; /* Smooth transition over 0.3 seconds */
+    transition: 20s; 
 }
