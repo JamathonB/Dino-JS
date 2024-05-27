@@ -10,7 +10,7 @@ img {
     background: none;
     position: relative;
     left: 0;
-    transition: left 3s ease; 
+    transition: 3s linear; 
 }
 
 
